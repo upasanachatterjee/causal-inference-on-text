@@ -1,0 +1,21 @@
+.env
+.venv
+__pycache__/*
+utils/__pycache__/*
+
+# output files
+*.csv
+*.json
+*.jsonl
+*.png
+*.pkl
+
+# test files
+testers
+df
+results*
+models
+tmp
+data
+old
+dataset_analysis
